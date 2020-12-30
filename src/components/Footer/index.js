@@ -44,6 +44,8 @@ const Footer = () => {
               <FooterLink to="/signin">Destination</FooterLink>
               <FooterLink to="/signin">Sponsorships</FooterLink>
             </FooterLinkItems>
+          </FooterLinksWrapper>
+          <FooterLinksWrapper>
             <FooterLinkItems>
               <FooterLinkTitle>Videos</FooterLinkTitle>
               <FooterLink to="/signin">Submit Video</FooterLink>
@@ -58,7 +60,6 @@ const Footer = () => {
               <FooterLink to="/signin">Youtube</FooterLink>
               <FooterLink to="/signin">Twitter</FooterLink>
             </FooterLinkItems>
-            
           </FooterLinksWrapper>
         </FooterLinksContainer>
         <SocialMedia>
